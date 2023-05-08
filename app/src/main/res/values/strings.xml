@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="card_owner">Michel MARTIN</string>
+    <string name="owner_sentence">A real shitty developer</string>
+    <string name="phone">+33(0)6 34 75 77 61</string>
+    <string name="network">\@JuanMich</string>
+    <string name="email_address">michelmartin66@gmail.com</string>
+
+    <string name="content_description_logo">Android Logo</string>
+    <string name="content_description_phone_icon">Phone icon</string>
+    <string name="content_description_share_icon">Share icon</string>
+    <string name="content_description_email_icon">Email icon</string>
+</resources>
